@@ -6,7 +6,7 @@ description: Assistant Professor of Computer Science at Cornell University | she
 
 profile:
   align: right
-  image: profpic.jpg
+  image: profpic2.jpg
   address: >
     <p>Gates Hall, Cornell University</p>
     <p>Campus Rd, Ithaca, NY 14853</p>
