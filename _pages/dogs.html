@@ -1,0 +1,56 @@
+---
+layout: archive
+title: "Dogs"
+permalink: /dogs/
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can find my articles on my Google Scholar profile and most of the professional information about me that you might be interested in in my CV. I'm pretty good at keeping my CV up to date, but not at keeping my website up to date (that inability comes with the professor title). One thing you won't find on my CV, however, are my two dogs, Mahler and Nina.</div>
+{% endif %}
+
+<div style="height: 20px;"></div> <!-- Blank vertical space -->
+
+<!-- <div class="dog-gallery">
+  {% for dog in site.static_files %}
+    {% if dog.path contains '/images/dogs/' %}
+      <div class="dog-photo">
+        <img src="{{ dog.path }}" alt="Photo of a dog">
+      </div>
+    {% endif %}
+  {% endfor %}
+</div> -->
+
+<style>
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.dog-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.dog-photo {
+  margin: 10px;
+}
+
+.dog-photo img {
+  width: 750px; /* Set the desired width */
+  height: auto; /* Maintain aspect ratio */
+}
+</style>
+
+<div class="dog-gallery">
+  {% for dog in site.static_files %}
+    {% if dog.path contains '/images/dogs/' %}
+      <div class="dog-photo">
+        <img src="{{ dog.path }}" alt="Photo of a dog">
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
