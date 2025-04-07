@@ -22,7 +22,7 @@ I'm an Affiliate Faculty in the Applied Math and Computational Sciences Division
 
 Publications, Talks, Teaching
 ------
-For a complete list of publications, talks, and teaching information, please see my **[CV](https://drive.google.com/file/d/1DmJgPIFg6S-B0bqvqWFUmrmk6czYVmy5/view?usp=sharing)** (I'm fairly good at keeping it up to date) or my [Google Scholar](https://scholar.google.com/citations?user=UZLC4TYAAAAJ) account. The PDFs of most of my articles can be found on arXiv. 
+For a complete list of publications, talks, and teaching information, please see my **[CV](https://drive.google.com/file/d/1l2TewcjYoSb-27kNmy54glEZa6Wvc6mR/view?usp=sharing)** (I'm fairly good at keeping it up to date) or my [Google Scholar](https://scholar.google.com/citations?user=UZLC4TYAAAAJ) account. The PDFs of most of my articles can be found on arXiv. 
 
 If you're interested in course or research talk slides, please feel free to email me. I'll add them here eventually.
 
