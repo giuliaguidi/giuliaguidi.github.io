@@ -5,9 +5,7 @@ permalink: /dogs/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can find my articles on my Google Scholar profile and most of the professional information about me that you might be interested in in my CV. I'm pretty good at keeping my CV up to date, but not at keeping my website up to date (that inability comes with the professor title). One thing you won't find on my CV, however, are my two dogs, Mahler and Nina.</div>
-{% endif %}
+<div class="wordwrap">You can find my articles on my Google Scholar profile and most of the professional information about me that you might be interested in in my CV. I'm pretty good at keeping my CV up to date, but not at keeping my website up to date (that inability comes with the professor title). One thing you won't find on my CV, however, are my two dogs, Mahler and Nina.</div>
 
 <div style="height: 20px;"></div> <!-- Blank vertical space -->
 
@@ -47,9 +45,49 @@ body {
 
 <div class="dog-gallery">
   {% for dog in site.static_files %}
-    {% if dog.path contains '/images/dogs/' %}
+    {% if dog.path contains '/images/dogs/mahlernina' %}
       <div class="dog-photo">
-        <img src="{{ dog.path }}" alt="Photo of a dog">
+        <img src="{{ dog.path }}" alt="Photo of Mahler and Nina">
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<div style="height: 20px;"></div> <!-- Blank vertical space -->
+
+<div class="wordwrap">You also won't find in my CV the very special dog, Sieger (2010&mdash;2022), who got me through grad school and the academic job market. I adopted him at the end of my first year of grad school in 2019 and he stayed with me until I graduated and made sure I had a job. I didn't expect to move to Ithaca without him, but he sent Mahler. To him, I dedicated my PhD dissertation.</div>
+
+<div style="height: 20px;"></div> <!-- Blank vertical space -->
+
+<style>
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.dog-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.dog-photo {
+  margin: 10px;
+}
+
+.dog-photo img {
+  width: 750px; /* Set the desired width */
+  height: auto; /* Maintain aspect ratio */
+}
+</style>
+
+<div class="dog-gallery">
+  {% for dog in site.static_files %}
+    {% if dog.path contains '/images/dogs/sieger' %}
+      <div class="dog-photo">
+        <img src="{{ dog.path }}" alt="Photo of Sieger">
       </div>
     {% endif %}
   {% endfor %}
