@@ -15,13 +15,56 @@ author_profile: true
 <body>
     <!-- <h1>Cornell HPC Group</h1> -->
     <hr>
-    <p>Last modified on April 7, 2025.</p>
+    <p>Last modified on April 13, 2025.</p>
     <p>I'm the proud PhD (co-)advisor of:</p>
     <ul>
         <li><a href="https://jb2695.wixsite.com/jbellavita">Julian Bellavita</a> (2023 &mdash;)</li>
         <li><a href="http://ben-landrum.com/">Ben Landrum</a> with <a href="https://ajhconway.com/">Professor Alex Conway</a> (2024 &mdash;)</li>
         <li><a href="https://isimo00.github.io/">Irene Simó Muñoz</a> (2025 &mdash;)</li>
     </ul>
+
+    <!-- <div style="height: 10px;"></div> Blank vertical space --> 
+
+    <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
+
+    .phd-gallery {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .phd-photo {
+      margin: 10px;
+    }
+
+    .phd-photo img {
+      width: 750px; /* Set the desired width */
+      height: auto; /* Maintain aspect ratio */
+    }
+    </style>
+
+    <p>As a placeholder for a real group photo, here's a Ghibli-style photo of some of us&mdash;from left: Irene, me, Julian, Ben, and <a href="https://cecetaca.com/">Cecilio</a> (PhD student in ECE, but also member ad honorem of the Cornell HPC group).</p>
+
+    <div class="phd-gallery">
+      {% for phd in site.static_files %}
+        {% if phd.path contains '/images/phds/' %}
+          <div class="phd-photo">
+            <img src="{{ phd.path }}" alt="Photo of Irene, Giulia, Julian, Ben, and Cecilio">
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <div style="height: 20px;"></div>
+
+    It turns out to be a non-monotonic iterative process. ChatGPT tends to remove some people when I ask to add others. That's how far I've gotten so far, but I'll add everyone soon!
+
     <p>Current MEng students:</p>
     <ul>
         <li>Andrew Chang</li>
