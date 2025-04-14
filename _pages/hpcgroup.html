@@ -61,9 +61,8 @@ author_profile: true
       {% endfor %}
     </div>
 
-    <div style="height: 20px;"></div>
+    <!-- <div style="height: 20px;"></div> -->
 
-    It turns out to be a non-monotonic iterative process. ChatGPT tends to remove some people when I ask to add others. That's how far I've gotten so far, but I'll add everyone soon!
 
     <p>Current MEng students:</p>
     <ul>
@@ -71,6 +70,23 @@ author_profile: true
         <li>Nakul Iyer</li>
         <li>Matthew Rubino</li>
     </ul>
+
+    <p>A group Ghibli-style picture of the "Popcorn team"&mdash;from left: Nakul, Andrew, Matthew, and Julian.</p>
+
+    <!-- <div style="height: 20px;"></div> -->
+
+    <div class="phd-gallery">
+      {% for phd in site.static_files %}
+        {% if phd.path contains '/images/popcorn/' %}
+          <div class="phd-photo">
+            <img src="{{ phd.path }}" alt="Photo of Nakul, Andrew, Matthew, and Julian">
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <!-- <div style="height: 20px;"></div> -->
+
     <p>Current undergraduate students:</p>
     <ul>
         <li>Noam Benson-Tilsen (PhD student at Yale starting Fall 2025)</li>
@@ -79,6 +95,9 @@ author_profile: true
         <li>Nolan Lizmi</li>
         <li>Zander Schatzberg</li>
     </ul>
+
+    <strong>Coming soon:</strong> A group Ghibli-style picture of the Cornell HPC undergraduates.
+
     <p>For a complete list of current and past students, please see my <strong><a href="https://drive.google.com/file/d/1l2TewcjYoSb-27kNmy54glEZa6Wvc6mR/view?usp=sharing">CV</a></strong>. I'll likely hire one PhD student with background in parallel programming and interest in high-performance computing for computational sciences next year (to start Fall 2026). The admissions process is through <a href="https://www.cs.cornell.edu/phd/admissions">Cornell CIS</a> and not through me personally.</p>
     <h2>Useful Resources for Students</h2>
     <hr>
