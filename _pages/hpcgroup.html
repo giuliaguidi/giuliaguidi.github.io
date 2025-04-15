@@ -21,6 +21,7 @@ author_profile: true
         <li><a href="https://jb2695.wixsite.com/jbellavita">Julian Bellavita</a> (2023 &mdash;)</li>
         <li><a href="http://ben-landrum.com/">Ben Landrum</a> with <a href="https://ajhconway.com/">Professor Alex Conway</a> (2024 &mdash;)</li>
         <li><a href="https://isimo00.github.io/">Irene Simó Muñoz</a> (2025 &mdash;)</li>
+        <li><a href="https://l.iyi.fan/">Yifan Li</a> (2025 &mdash;)</li>
     </ul>
 
     <!-- <div style="height: 10px;"></div> Blank vertical space --> 
@@ -49,7 +50,7 @@ author_profile: true
     }
     </style>
 
-    <p>As a placeholder for a real group photo, here's a Ghibli-style photo of some of us&mdash;from left: Irene, me, Julian, Ben, and <a href="https://cecetaca.com/">Cecilio</a> (PhD student in ECE, but also member ad honorem of the Cornell HPC group).</p>
+    <p>As a placeholder for a real group photo, here's a Ghibli-style photo of some of us&mdash;from left: Yifan, Irene, me, Julian, Ben, and <a href="https://cecetaca.com/">Cecilio</a> (PhD student in ECE, but also member ad honorem of the Cornell HPC group).</p>
 
     <div class="phd-gallery">
       {% for phd in site.static_files %}
@@ -71,7 +72,7 @@ author_profile: true
         <li>Matthew Rubino</li>
     </ul>
 
-    <p>A group Ghibli-style picture of the "Popcorn team"&mdash;from left: Nakul, Andrew, Matthew, and Julian.</p>
+    <p>A group Ghibli-style picture of the "Popcorn team"&mdash;from left: Nakul, Andrew, and Matthew.</p>
 
     <!-- <div style="height: 20px;"></div> -->
 
@@ -89,16 +90,27 @@ author_profile: true
 
     <p>Current undergraduate students:</p>
     <ul>
-        <li>Noam Benson-Tilsen (PhD student at Yale starting Fall 2025)</li>
-        <li>Thomas McFarland</li>
+        <li><a href="https://nb-t.github.io/">Noam Benson-Tilsen</a> (PhD student at Yale starting Fall 2025)</li>
         <li>Aaron Li</li>
         <li>Nolan Lizmi</li>
+        <li>Thomas McFarland</li>
         <li>Zander Schatzberg</li>
     </ul>
 
-    <strong>Coming soon:</strong> A group Ghibli-style picture of the Cornell HPC undergraduates.
+    <p>A group Ghibli-style picture of the Cornell HPC undergraduates&mdash;from left: Nolan, Aaron, Zander, Noam, and Thomas.</p>
 
-    <p>For a complete list of current and past students, please see my <strong><a href="https://drive.google.com/file/d/1l2TewcjYoSb-27kNmy54glEZa6Wvc6mR/view?usp=sharing">CV</a></strong>. I'll likely hire one PhD student with background in parallel programming and interest in high-performance computing for computational sciences next year (to start Fall 2026). The admissions process is through <a href="https://www.cs.cornell.edu/phd/admissions">Cornell CIS</a> and not through me personally.</p>
+    <div class="phd-gallery">
+      {% for phd in site.static_files %}
+        {% if phd.path contains '/images/ugrad/' %}
+          <div class="phd-photo">
+            <img src="{{ phd.path }}" alt="Photo of Cornell HPC Undergraduates">
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+
+    <p>For a complete list of current and past students, please see my <strong><a href="https://drive.google.com/file/d/1l2TewcjYoSb-27kNmy54glEZa6Wvc6mR/view?usp=sharing">CV</a></strong>. I might hire one PhD student with background in parallel programming and interest in high-performance computing for computational sciences next year (to start Fall 2026). The admissions process is through <a href="https://www.cs.cornell.edu/phd/admissions">Cornell CIS</a> and not through me personally.</p>
     <h2>Useful Resources for Students</h2>
     <hr>
     <p>The list is under construction but in the meantime:</p>
