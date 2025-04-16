@@ -26,11 +26,11 @@ For a complete list of publications, talks, and teaching information, please see
 
 If you're interested in course or research talk slides, please feel free to email me. I'll add them here eventually.
 
-Recent Updates
+<!-- Recent Updates
 ------
 
 **4/14/2025** 
-I'm very pleased to announce that our [NSF](https://www.nsf.gov/) proposal "ACED: Fast and Scalable Whole Genome Analysis on Emerging Hardware Technologies" was awarded. This project, conducted in collaboration with [Professor April Wei's Lab](https://aprilweilab.github.io/), will address major computational challenges in population genetics through parallel computation, sparse linear algebra, and new hardware technologies.
+I'm very pleased to announce that our [NSF](https://www.nsf.gov/) proposal "ACED: Fast and Scalable Whole Genome Analysis on Emerging Hardware Technologies" was awarded. This project, conducted in collaboration with [Professor April Wei's Lab](https://aprilweilab.github.io/), will address major computational challenges in population genetics through parallel computation, sparse linear algebra, and new hardware technologies. -->
 
 <!-- Cornell HPC Group
 ------
