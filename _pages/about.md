@@ -16,7 +16,7 @@ A data-driven personal website
 
 I received the [2024 SIAG/Supercomputing Early Career Prize](https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-sc-early-career-prize), the [2023 ISSNAF Young Investigator Mario Gerla Award](https://cis.cornell.edu/guidi-wins-issnaf-young-investigator-mario-gerla-award), and the [2020 SIGHPC Computational & Data Science Fellowship](https://www.sighpc.org/for-your-career/fellowships/2020-fellowship-winners?fbclid=IwAR2N8swtCYgNH3phRmrFtASSC42b4oN5joG1l5XHFSdnkMY6U4HvZt3olLE). 
 
-I'm an Affiliate Faculty in the Applied Math and Computational Sciences Division (Performance and Algorithms Group) at Lawrence Berkeley National Laboratory and a Graduate Field Faculty in the [Department of Computational Biology](https://gradschool.cornell.edu/academics/fields-of-study/field/computational-biology/) and the [Center for Applied Math](https://www.cam.cornell.edu/cam) at Cornell.
+I'm an Affiliate Faculty in the Applied Math and Computational Sciences Division (Performance and Algorithms Group) at Lawrence Berkeley National Laboratory and a Graduate Field Faculty in the [School of Electrical and Computer Engineering](https://www.engineering.cornell.edu/ece/), [Department of Computational Biology](https://gradschool.cornell.edu/academics/fields-of-study/field/computational-biology/) and the [Center for Applied Math](https://www.cam.cornell.edu/cam) at Cornell.
 
 <!--and the Tl;dr version of my **[Research Statement](https://drive.google.com/file/d/1_HVC4HkkyBMqUx8AiTHeyjgwlSdYG3j6/view?usp=sharing)**.-->
 
