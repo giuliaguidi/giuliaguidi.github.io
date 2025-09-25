@@ -18,7 +18,7 @@ I received the [2024 SIAG/Supercomputing Early Career Prize](https://www.siam.or
 
 I'm an Affiliate Faculty in the Applied Math and Computational Sciences Division (Performance and Algorithms Group) at Lawrence Berkeley National Laboratory and a Graduate Field Faculty in the [School of Electrical and Computer Engineering](https://www.engineering.cornell.edu/ece/), [Department of Computational Biology](https://gradschool.cornell.edu/academics/fields-of-study/field/computational-biology/) and the [Center for Applied Math](https://www.cam.cornell.edu/cam) at Cornell.
 
-I'm also a member of the [Computer Systems Laboratory (CSL) at Cornell University](https://www.csl.cornell.edu/).
+I'm also a faculty member of the [Computer Systems Laboratory (CSL) at Cornell University](https://www.csl.cornell.edu/).
 
 <!--and the Tl;dr version of my **[Research Statement](https://drive.google.com/file/d/1_HVC4HkkyBMqUx8AiTHeyjgwlSdYG3j6/view?usp=sharing)**.-->
 
