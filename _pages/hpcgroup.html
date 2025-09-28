@@ -118,6 +118,12 @@ author_profile: true
         {% endif %}
       {% endfor %}
     </div>
+
+    <ul>
+      {% for phd in site.static_files %}
+        <li>{{ phd.path }}</li>
+      {% endfor %}
+    </ul>
     
 </body>
 </html>
