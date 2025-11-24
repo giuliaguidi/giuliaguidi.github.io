@@ -20,12 +20,12 @@ I'm an Affiliate Faculty in the Applied Math and Computational Sciences Division
 
 I'm also a faculty member of the [Computer Systems Laboratory (CSL) at Cornell University](https://www.csl.cornell.edu/).
 
-I’ll be recruiting PhD students for Fall 2026 to join my group at the [Cornell Ann S. Bowers College of Computing and Information Science](https://cis.cornell.edu/). Our research spans parallel computation, sparse linear algebra, programming systems, large-scale computational biology challenges, and algorithms for emerging hardware architectures.
+I’ll be **recruiting PhD students for Fall 2026 to join my group** at the [Cornell Ann S. Bowers College of Computing and Information Science](https://cis.cornell.edu/). Our research spans parallel computation, sparse linear algebra, programming systems, large-scale computational biology challenges, and algorithms for emerging hardware architectures.
 Projects focus on parallel scientific computation, including—but not limited to—real-world large-scale challenges in computational biology and emerging hardware technologies. Prior biology knowledge is not required, but a background in parallel computing and C/C++ programming is highly encouraged.
 
 The group fosters a collegial, collaborative culture in the beautiful natural surroundings of Ithaca, NY. You'll likely enjoy it much more than you expect!
 
-Due to limited time, I’m mostly unable to respond to individual email inquiries. If you’re interested, please apply to the Cornell CS PhD program and mention my name in your application materials, along with why you’re interested in working with me. The applications are submitted through the [department](https://www.cs.cornell.edu/phd-computer-science/apply).
+Due to limited time, I’m mostly unable to respond to individual email inquiries. If you’re interested, **please apply to the Cornell CS PhD program and mention my name in your application materials**, along with why you’re interested in working with me. The applications are submitted through the [department](https://www.cs.cornell.edu/phd-computer-science/apply).
 
 <!--and the Tl;dr version of my **[Research Statement](https://drive.google.com/file/d/1_HVC4HkkyBMqUx8AiTHeyjgwlSdYG3j6/view?usp=sharing)**.-->
 
