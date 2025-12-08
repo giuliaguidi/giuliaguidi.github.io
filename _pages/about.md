@@ -47,13 +47,15 @@ Selected Publication & GitHub
 **Popcorn: Accelerating Kernel K-means on GPU**  
 Our PPoPP 2025 paper introduces a new sparse-matrix formulation of Kernel K-means that enables an efficient, high-performance GPU implementation. Our open-source tool, **Popcorn**, achieves up to **123.8× speedup over a CPU version** and **2.6× over a dense GPU implementation**.
 
-[Read the Paper →](https://arxiv.org/pdf/2501.05587)
+[Read the Popcorn Paper](https://arxiv.org/pdf/2501.05587)
+
 [Popcorn GitHub](https://github.com/HicrestLaboratory/Matrix-Centric-K-Means)
 
 **HySortK: High-Performance Sorting-Based K-mer Counting in Distributed Memory with Flexible Hybrid Parallelism**  
 Our ICPP 2024 paper describes **HySortK**, a new distributed-memory k-mer counting tool for genomics pipelines. Using a sorting-based approach and a flexible hybrid-parallelism layer, HySortK significantly reduces memory overhead and improves scalability, achieving **2–10× speedup over a GPU baseline on 4–8 nodes** and up to **2× speedup over leading CPU tools on 16 nodes**, while reducing peak memory usage by approximately 30%. 
 
-[Read the Paper →](https://arxiv.org/abs/2407.07718)
+[Read the HySortK Paper](https://arxiv.org/abs/2407.07718)
+
 [HySortK GitHub](https://github.com/CornellHPC/HySortK)
 
 <!-- Cornell HPC Group
