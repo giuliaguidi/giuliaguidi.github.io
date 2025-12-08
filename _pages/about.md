@@ -50,17 +50,23 @@ Our PPoPP 2025 paper introduces a new sparse-matrix formulation of Kernel K-mean
 [Read the Popcorn Paper](https://arxiv.org/pdf/2501.05587)\
 [Popcorn GitHub](https://github.com/HicrestLaboratory/Matrix-Centric-K-Means)
 
+**GPU-Accelerated Distributed 2D SpGEMM**  
+Our ICPE 2025 paper introduces a GPU-based distributed-memory SpGEMM implementation built on CombBLAS, achieving over 2× speedup compared to the CPU-only version and outperforming PETSc on large sparse matrices. A hybrid communication strategy dynamically selects host- or device-level data path based on message size, reducing overhead and improving scalability across multi-GPU clusters.
+
+[Read the Paper](https://dl.acm.org/doi/pdf/10.1145/3676151.3719365)\
+[GitHub](https://github.com/tf-mac/CombBLAS)
+
 **HySortK: High-Performance Sorting-Based K-mer Counting**  
 Our ICPP 2024 paper describes **HySortK**, a new distributed-memory k-mer counting tool for genomics pipelines. Using a sorting-based approach and a flexible hybrid-parallelism layer, HySortK significantly reduces memory overhead and improves scalability, achieving 2–10× speedup over a GPU baseline on 4–8 nodes and up to 2× speedup over leading CPU tools on 16 nodes, while reducing peak memory usage by approximately 30%. 
 
 [Read the HySortK Paper](https://arxiv.org/abs/2407.07718)\
 [HySortK GitHub](https://github.com/CornellHPC/HySortK)
 
-**GPU-Accelerated Distributed 2D SpGEMM**  
-Our ICPE 2025 paper introduces a GPU-based distributed-memory SpGEMM implementation built on CombBLAS, achieving over 2× speedup compared to the CPU-only version and outperforming PETSc on large sparse matrices. A hybrid communication strategy dynamically selects host- or device-level data path based on message size, reducing overhead and improving scalability across multi-GPU clusters.
+**GPU-Accelerated Pangenome Graph Layout**  
+Our SC 24 paper introduces a GPU-optimized layout tool for pangenome graphs. On 24 human whole-chromosome pangenomes, our implementation achieves up to 57.3× speedup over a multithreaded CPU baseline, reducing layout times from hours to minutes while maintaining layout quality.
 
-[Read the Paper](https://dl.acm.org/doi/pdf/10.1145/3676151.3719365)\
-[GitHub](https://github.com/tf-mac/CombBLAS)
+[Read the Paper](https://arxiv.org/pdf/2409.00876)
+[GitHub](https://github.com/pangenome/odgi)
 
 <!-- Cornell HPC Group
 ------
