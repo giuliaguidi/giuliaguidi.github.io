@@ -41,7 +41,7 @@ Recent Updates
 **4/24/2025** 
 I'm very pleased to announce that our [NSF](https://www.nsf.gov/) proposal "ACED: Fast and Scalable Whole Genome Analysis on Emerging Hardware Technologies" was awarded. This project, conducted in collaboration with [Professor April Wei's Lab](https://aprilweilab.github.io/), will address major computational challenges in population genetics through parallel computation, sparse linear algebra, and new hardware technologies.
 
-Selected Publication & GitHub
+Selected Publication & Software
 ------
 
 **Popcorn: Accelerating Kernel K-means on GPU**  
