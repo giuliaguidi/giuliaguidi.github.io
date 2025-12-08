@@ -65,7 +65,7 @@ Our ICPP 2024 paper describes **HySortK**, a new distributed-memory k-mer counti
 **GPU-Accelerated Pangenome Graph Layout**  
 Our SC 24 paper introduces a GPU-optimized layout tool for pangenome graphs. On 24 human whole-chromosome pangenomes, our implementation achieves up to 57.3× speedup over a multithreaded CPU baseline, reducing layout times from hours to minutes while maintaining layout quality.
 
-[Read the Paper](https://arxiv.org/pdf/2409.00876)
+[Read the Paper](https://arxiv.org/pdf/2409.00876)\
 [GitHub](https://github.com/pangenome/odgi)
 
 <!-- Cornell HPC Group
