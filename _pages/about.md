@@ -44,7 +44,7 @@ I'm very pleased to announce that our [NSF](https://www.nsf.gov/) proposal "ACED
 Selected Publication & Software
 ------
 
-**Popcorn: Accelerating Kernel K-means on GPU**  
+**Popcorn: Accelerating Kernel K-means on GPU using Sparse Linear Algebra**  
 Our PPoPP 2025 paper introduces a new sparse-matrix formulation of Kernel K-means that enables an efficient, high-performance GPU implementation. Our open-source tool, **Popcorn**, achieves up to 123.8× speedup over a CPU version and 2.6× over a dense GPU implementation.
 
 [Read the Popcorn Paper](https://arxiv.org/pdf/2501.05587)\
