@@ -20,6 +20,13 @@ I'm an Affiliate Faculty in the Applied Math and Computational Sciences Division
 
 I'm also a faculty member of the [Computer Systems Laboratory (CSL) at Cornell University](https://www.csl.cornell.edu/).
 
+I’ll be **recruiting PhD students for Fall 2026 to join my group** at [Cornell CS](https://cis.cornell.edu/). Our research spans parallel computation, sparse linear algebra, programming systems, large-scale computational biology challenges, and algorithms for emerging hardware architectures.
+Projects focus on parallel scientific computation, including—but not limited to—real-world large-scale challenges in computational biology and emerging hardware technologies. Prior biology knowledge is not required, but a background in parallel computing and C/C++ programming is highly encouraged.
+
+The group fosters a collegial, collaborative culture in the beautiful natural surroundings of Ithaca, NY. You'll likely enjoy Ithaca much more than you expect!
+
+Due to limited time, I’m mostly unable to respond to individual email inquiries. If you’re interested, **please apply to the Cornell CS PhD program and mention my name in your application materials**, along with why you’re interested in working with me. The applications are submitted through the [department](https://www.cs.cornell.edu/phd-computer-science/apply).
+
 <!--and the Tl;dr version of my **[Research Statement](https://drive.google.com/file/d/1_HVC4HkkyBMqUx8AiTHeyjgwlSdYG3j6/view?usp=sharing)**.-->
 
 Publications, Talks, Teaching
@@ -33,6 +40,33 @@ Recent Updates
 
 **4/24/2025** 
 I'm very pleased to announce that our [NSF](https://www.nsf.gov/) proposal "ACED: Fast and Scalable Whole Genome Analysis on Emerging Hardware Technologies" was awarded. This project, conducted in collaboration with [Professor April Wei's Lab](https://aprilweilab.github.io/), will address major computational challenges in population genetics through parallel computation, sparse linear algebra, and new hardware technologies.
+
+Selected Publication & Software
+------
+
+**Popcorn: Accelerating Kernel K-means on GPU using Sparse Linear Algebra**  
+Our PPoPP 2025 paper introduces a new sparse-matrix formulation of Kernel K-means that enables an efficient, high-performance GPU implementation. Our open-source tool, **Popcorn**, achieves up to 123.8× speedup over a CPU version and 2.6× over a dense GPU implementation.
+
+[Read the Popcorn Paper](https://arxiv.org/pdf/2501.05587)\
+[Popcorn GitHub](https://github.com/HicrestLaboratory/Matrix-Centric-K-Means)
+
+**GPU-Accelerated Distributed 2D SpGEMM**  
+Our ICPE 2025 paper introduces a GPU-based distributed-memory SpGEMM implementation built on CombBLAS, achieving over 2× speedup compared to the CPU-only version and outperforming PETSc on large sparse matrices. A hybrid communication strategy dynamically selects host- or device-level data path based on message size, reducing overhead and improving scalability across multi-GPU clusters.
+
+[Read the Paper](https://dl.acm.org/doi/pdf/10.1145/3676151.3719365)\
+[GitHub](https://github.com/tf-mac/CombBLAS)
+
+**HySortK: High-Performance Sorting-Based K-mer Counting**  
+Our ICPP 2024 paper describes **HySortK**, a new distributed-memory k-mer counting tool for genomics pipelines. Using a sorting-based approach and a flexible hybrid-parallelism layer, HySortK significantly reduces memory overhead and improves scalability, achieving 2–10× speedup over a GPU baseline on 4–8 nodes and up to 2× speedup over leading CPU tools on 16 nodes, while reducing peak memory usage by approximately 30%. 
+
+[Read the HySortK Paper](https://arxiv.org/abs/2407.07718)\
+[HySortK GitHub](https://github.com/CornellHPC/HySortK)
+
+**GPU-Accelerated Pangenome Graph Layout**  
+Our SC 24 paper introduces a GPU-optimized layout tool for pangenome graphs. On 24 human whole-chromosome pangenomes, our implementation achieves up to 57.3× speedup over a multithreaded CPU baseline, reducing layout times from hours to minutes while maintaining layout quality.
+
+[Read the Paper](https://arxiv.org/pdf/2409.00876)\
+[GitHub](https://github.com/pangenome/odgi)
 
 <!-- Cornell HPC Group
 ------
