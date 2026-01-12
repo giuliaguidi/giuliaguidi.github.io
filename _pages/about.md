@@ -20,7 +20,7 @@ I'm an Affiliate Faculty in the Applied Math and Computational Sciences Division
 
 I'm also a faculty member of the [Computer Systems Laboratory (CSL) at Cornell University](https://www.csl.cornell.edu/).
 
-This semester, I'm teaching [CS 5220: Applied High-Performance and Parallel Computing](https://www.cs.cornell.edu/courses/cs5220/2026sp/).
+In Spring 2026, I'm teaching [CS 5220: Applied High-Performance and Parallel Computing](https://www.cs.cornell.edu/courses/cs5220/2026sp/).
 
 I’ll be **recruiting PhD students for Fall 2026 to join my group** at [Cornell CS](https://cis.cornell.edu/). Our research spans parallel computation, sparse linear algebra, programming systems, large-scale computational biology challenges, and algorithms for emerging hardware architectures.
 Projects focus on parallel scientific computation, including—but not limited to—real-world large-scale challenges in computational biology and emerging hardware technologies. Prior biology knowledge is not required, but a background in parallel computing and C/C++ programming is highly encouraged.
