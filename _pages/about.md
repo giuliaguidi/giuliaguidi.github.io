@@ -27,10 +27,6 @@ Projects focus on parallel scientific computation, including—but not limited t
 
 The group fosters a collegial, collaborative culture in the beautiful natural surroundings of Ithaca, NY. You'll likely enjoy Ithaca much more than you expect!
 
-Due to limited time, I’m mostly unable to respond to individual email inquiries. If you’re interested, **please apply to the Cornell CS PhD program and mention my name in your application materials**, along with why you’re interested in working with me. The applications are submitted through the [department](https://www.cs.cornell.edu/phd-computer-science/apply).
-
-<!--and the Tl;dr version of my **[Research Statement](https://drive.google.com/file/d/1_HVC4HkkyBMqUx8AiTHeyjgwlSdYG3j6/view?usp=sharing)**.-->
-
 Publications, Talks, Teaching
 ------
 For a complete list of publications, talks, and teaching information, please see my **[CV](https://drive.google.com/file/d/1l2TewcjYoSb-27kNmy54glEZa6Wvc6mR/view?usp=sharing)** (I'm fairly good at keeping it up to date) or my [Google Scholar](https://scholar.google.com/citations?user=UZLC4TYAAAAJ) account. The PDFs of most of my articles can be found on arXiv. 
