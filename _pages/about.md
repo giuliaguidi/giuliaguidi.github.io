@@ -38,7 +38,7 @@ Recent Updates
 
 - Our work on distributed memory algorithms for scaling Kernel K-means to million-point datasets (one to two orders of magnitude larger than previously practical) has been accepted to IPDPS 2026! PDF coming soon!
  
-- I'm very pleased to announce that our [NSF](https://www.nsf.gov/) proposal "ACED: Fast and Scalable Whole Genome Analysis on Emerging Hardware Technologies" was awarded. This project, conducted in collaboration with [Professor April Wei's Lab](https://aprilweilab.github.io/), will address major computational challenges in population genetics through parallel computation, sparse linear algebra, and new hardware technologies.
+- Our [NSF](https://www.nsf.gov/) proposal "ACED: Fast and Scalable Whole Genome Analysis on Emerging Hardware Technologies" has been funded! This project, conducted in collaboration with [Professor April Wei's Lab](https://aprilweilab.github.io/), will address major computational challenges in population genetics through parallel computation, sparse linear algebra, and new hardware technologies.
 
 Selected Publication & Software
 ------
