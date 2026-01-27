@@ -36,15 +36,22 @@ In Spring 2026, I'm teaching [CS 5220: Applied High-Performance and Parallel Com
 Recent Updates
 ------
 
-- Our work on distributed memory algorithms for scaling Kernel K-means to million-point datasets (one to two orders of magnitude larger than previously practical) has been accepted to IPDPS 2026! PDF coming soon!
+- Our work on distributed memory algorithms for scaling Kernel K-means to million-point datasets (one to two orders of magnitude larger than previously practical) has been accepted to IPDPS 2026!
  
 - Our [NSF](https://www.nsf.gov/) proposal "ACED: Fast and Scalable Whole Genome Analysis on Emerging Hardware Technologies" has been funded! This project, conducted in collaboration with [Professor April Wei's Lab](https://aprilweilab.github.io/), will address major computational challenges in population genetics through parallel computation, sparse linear algebra, and new hardware technologies.
 
 Selected Publication & Software
 ------
 
+**Vivaldi: Communcation-Avoiding Large-Scale Linear Algebraic Kernel K-Means**
+
+Our IPDPS 2026 paper introduces distributed memory algorithms for scaling Kernel K-means to million-point datasets (one to two orders of magnitude larger than previously practical). Central to our work is the design of partitioning schemes that enable **communication-efficient composition** of the linear algebra primitives.
+
+[Read the Vivaldi Paper](https://arxiv.org/pdf/2601.17136)\
+[Vivaldi GitHub](https://github.com/CornellHPC/Vivaldi)
+
 **Popcorn: Accelerating Kernel K-means on GPU using Sparse Linear Algebra**  
-Our PPoPP 2025 paper introduces a new sparse-matrix formulation of Kernel K-means that enables an efficient, high-performance GPU implementation. Our open-source tool, **Popcorn**, achieves up to 123.8× speedup over a CPU version and 2.6× over a dense GPU implementation.
+Our PPoPP 2025 paper introduces a new sparse-matrix formulation of Kernel K-means that enables an efficient, high-performance GPU implementation. Our open-source tool, Popcorn, achieves up to 123.8× speedup over a CPU version and 2.6× over a dense GPU implementation.
 
 [Read the Popcorn Paper](https://arxiv.org/pdf/2501.05587)\
 [Popcorn GitHub](https://github.com/HicrestLaboratory/Matrix-Centric-K-Means)
