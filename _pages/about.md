@@ -47,7 +47,7 @@ Selected Publication & Software
 
 Our IPDPS 2026 paper introduces distributed memory algorithms for scaling Kernel K-means to million-point datasets (one to two orders of magnitude larger than previously practical). Central to our work is the design of partitioning schemes that enable **communication-efficient composition** of the linear algebra primitives.
 
-[Read the Vivaldi Paper](https://drive.google.com/file/d/1ORB4HmeADXLXkjlREDfNP3YQMSZbB1WL/view?usp=sharing)\
+[Read the Vivaldi Paper](https://arxiv.org/pdf/2601.17136)\
 [Vivaldi GitHub](https://github.com/CornellHPC/Vivaldi)
 
 **Popcorn: Accelerating Kernel K-means on GPU using Sparse Linear Algebra**  
