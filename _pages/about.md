@@ -44,7 +44,7 @@ Selected Publication & Software
 
 **Trident: Communication-Avoiding SpGEMM via Trident Partitioning on Hierarchical GPU Interconnect**
 
-Our ICS 2026 paper introduces a hierarchy-aware 2D-1D hybrid distributed SpGEMM algorithm that uses communication-avoiding techniques and asynchronous communication to exploit the hierarchical and heterogeneous architecture of modern supercomputing interconnect.
+Our ICS 2026 paper introduces **trident partitioning** for SpGEMM, i.e., a hierarchy-aware 2D-1D hybrid distributed SpGEMM algorithm that uses communication-avoiding techniques and asynchronous communication to exploit the hierarchical and heterogeneous architecture of modern supercomputing interconnect.
 
 [Read the Trident Paper](https://drive.google.com/file/d/1k75WHdrxzlmEAQe_E4sOERn1EXFVdgPO/view?usp=sharing)\
 [Trident GitHub](https://github.com/HicrestLaboratory/Trident)
