@@ -33,7 +33,7 @@ In Spring 2026, I'm teaching [CS 5220: Applied High-Performance and Parallel Com
 Recent Updates
 ------
 
-- Our work introducing "Trident partitioning", a hierarchy-aware hybrid 2D–1D decomposition for distributed SpGEMM that minimizes costly inter-node communication by exploiting fast intra-node GPU interconnects on modern heterogeneous supercomputers, has been accepted to [ICS 2026](https://dipsa-qub.github.io/ICS2026-webpage/)! PDF of the paper coming soon!
+- Our work introducing "Trident partitioning", a hierarchy-aware hybrid 2D–1D decomposition for distributed SpGEMM that minimizes costly inter-node communication by exploiting fast intra-node GPU interconnects on modern heterogeneous supercomputers, has been accepted to [ICS 2026](https://dipsa-qub.github.io/ICS2026-webpage/)! 
 
 - Our work on distributed memory algorithms for scaling Kernel K-means to million-point datasets (one to two orders of magnitude larger than previously practical) has been accepted to [IPDPS 2026](https://www.ipdps.org/)!
  
@@ -41,6 +41,13 @@ Recent Updates
 
 Selected Publication & Software
 ------
+
+**Trident: Communication-Avoiding SpGEMM via Trident Partitioning on Hierarchical GPU Interconnect**
+
+Our ICS 2026 paper introduces a hierarchy-aware 2D-1D hybrid distributed SpGEMM algorithm that uses communication-avoiding techniques and asynchronous communication to exploit the hierarchical and heterogeneous architecture of modern supercomputing interconnect.
+
+[Read the Trident Paper](https://drive.google.com/file/d/1k75WHdrxzlmEAQe_E4sOERn1EXFVdgPO/view?usp=sharing)\
+[Trident GitHub](https://github.com/HicrestLaboratory/Trident)
 
 **Vivaldi: Communcation-Avoiding Large-Scale Linear Algebraic Kernel K-Means**
 
