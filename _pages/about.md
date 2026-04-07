@@ -33,9 +33,11 @@ In Spring 2026, I'm teaching [CS 5220: Applied High-Performance and Parallel Com
 Recent Updates
 ------
 
-- Our work introducing "Trident partitioning", a hierarchy-aware hybrid 2D–1D decomposition for distributed SpGEMM that minimizes costly inter-node communication by exploiting fast intra-node GPU interconnects on modern heterogeneous supercomputers, has been accepted to [ICS 2026](https://dipsa-qub.github.io/ICS2026-webpage/)! 
+- Our work "Ocean: Fast Estimation-Based Sparse General Matrix-Matrix Multiplication on GPU" led by [Yifan Li](https://l.iyi.fan/) has been accepted to [ICS 2026](https://dipsa-qub.github.io/ICS2026-webpage/). Ocean replaces the costly symbolic pass in GPU SpGEMM with fast HyperLogLog estimation and introduces a hybrid accumulator that efficiently handles both short and long rows — a new paradigm for sparse matrix multiplication on GPUs. Ocean was evaluated on 400+ matrices across NVIDIA A100 and H100 and achieved 1.4×–2.8× speedup over the state-of-the-art. **PDF coming soon!**
 
-- Our work on distributed memory algorithms for scaling Kernel K-means to million-point datasets (one to two orders of magnitude larger than previously practical) has been accepted to [IPDPS 2026](https://www.ipdps.org/)!
+- Our work introducing "Trident partitioning" led by [Julian Bellavita](https://hooninator.github.io/website.github.io/) and [Lorenzo Pichetti](https://hicrest.unitn.it/people/pico/), a hierarchy-aware hybrid 2D–1D decomposition for distributed SpGEMM that minimizes costly inter-node communication by exploiting fast intra-node GPU interconnects on modern heterogeneous supercomputers, has been accepted to [ICS 2026](https://dipsa-qub.github.io/ICS2026-webpage/)! 
+
+- Our work on distributed memory algorithms for scaling Kernel K-means to million-point datasets (one to two orders of magnitude larger than previously practical) led by [Julian Bellavita](https://hooninator.github.io/website.github.io/) has been accepted to [IPDPS 2026](https://www.ipdps.org/)!
  
 - Our [NSF](https://www.nsf.gov/) proposal "ACED: Fast and Scalable Whole Genome Analysis on Emerging Hardware Technologies" has been funded! This project, conducted in collaboration with [Professor April Wei's Lab](https://aprilweilab.github.io/), will address major computational challenges in population genetics through parallel computation, sparse linear algebra, and new hardware technologies.
 
