@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I'm an Assistant Professor in the [Department of Computer Science](https://cis.cornell.edu/) at Cornell University.
-I received my PhD in Computer Science from UC Berkeley. I work in the field of high-performance computing (HPC) for large-scale computational sciences and lead the Cornell HPC group. I'm interested in developing algorithms and software infrastructures on parallel machines to speed up data processing without sacrificing programming productivity, and to make high-performance computing more accessible. I'm a big fan of sparse linear algebra and believe in sparse linear algebra as a computational abstraction for tackling large-scale computational challenges.
+I received my PhD in Computer Science from UC Berkeley. I work in the field of high-performance computing (HPC) for large-scale computational sciences and lead the **ALPS (Algorithms for Large-scale Parallel Systems) Lab**. I'm interested in developing algorithms and software infrastructures on parallel machines to speed up data processing without sacrificing programming productivity, and to make high-performance computing more accessible. I'm a big fan of sparse linear algebra and believe in sparse linear algebra as a computational abstraction for tackling large-scale computational challenges.
 
 <!-- 
 A data-driven personal website
@@ -20,8 +20,6 @@ I'm an Affiliate Faculty in the Applied Math and Computational Sciences Division
 
 I'm also a faculty member of the [Computer Systems Laboratory (CSL) at Cornell University](https://www.csl.cornell.edu/).
 
-I’ll be **recruiting PhD students for Fall 2026 to join my group** at [Cornell CS](https://cis.cornell.edu/). 
-
 Publications, Talks, Teaching
 ------
 For a complete list of publications, talks, and teaching information, please see my **[CV](https://drive.google.com/file/d/1l2TewcjYoSb-27kNmy54glEZa6Wvc6mR/view?usp=sharing)** (I'm fairly good at keeping it up to date) or my [Google Scholar](https://scholar.google.com/citations?user=UZLC4TYAAAAJ) account. The PDFs of most of my articles can be found on arXiv. 
@@ -32,6 +30,8 @@ In Spring 2026, I'm teaching [CS 5220: Applied High-Performance and Parallel Com
 
 Recent Updates
 ------
+
+- I'm excited to share that [Victor Kamel](https://www.cs.toronto.edu/~vkamel/) will join the ALPS Lab in Fall 2026 to pursue his PhD in Computer Science!
 
 - Our work "Ocean: Fast Estimation-Based Sparse General Matrix-Matrix Multiplication on GPU" led by [Yifan Li](https://l.iyi.fan/) has been accepted to [ICS 2026](https://dipsa-qub.github.io/ICS2026-webpage/). Ocean replaces the costly symbolic pass in GPU SpGEMM with fast HyperLogLog estimation and introduces a hybrid accumulator that efficiently handles both short and long rows — a new paradigm for sparse matrix multiplication on GPUs. Ocean was evaluated on 400+ matrices across NVIDIA A100 and H100 and achieved 1.4×–2.8× speedup over the state-of-the-art. **PDF coming soon!**
 
