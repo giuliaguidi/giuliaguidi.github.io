@@ -31,7 +31,9 @@ In Spring 2026, I'm teaching [CS 5220: Applied High-Performance and Parallel Com
 Recent Updates
 ------
 
-- I'm excited to share that [Victor Kamel](https://www.cs.toronto.edu/~vkamel/) will join the ALPS Lab in Fall 2026 to pursue his PhD in Computer Science!
+- I'm excited to share that [Victor Kamel](https://www.cs.toronto.edu/~vkamel/) will join the ALPS Lab in Fall 2026 from the University of Toronto to pursue his PhD in Computer Science at Cornell!
+
+- [Irene Simó](https://isimo00.github.io/) will present her poster, "Low-Precision SpMV and s-step SGD on Processing-in-Memory," at IPDPS26 in New Orleans, May 25–29, as part of the [IPDPS PhD Forum](https://www.ipdps.org/ipdps2026/2026-phd-forum.html). 
 
 - Our work "Ocean: Fast Estimation-Based Sparse General Matrix-Matrix Multiplication on GPU" led by [Yifan Li](https://l.iyi.fan/) has been accepted to [ICS 2026](https://dipsa-qub.github.io/ICS2026-webpage/). Ocean replaces the costly symbolic pass in GPU SpGEMM with fast HyperLogLog estimation and introduces a hybrid accumulator that efficiently handles both short and long rows — a new paradigm for sparse matrix multiplication on GPUs. Ocean was evaluated on 400+ matrices across NVIDIA A100 and H100 and achieved 1.4×–2.8× speedup over the state-of-the-art. **PDF coming soon!**
 
@@ -43,6 +45,13 @@ Recent Updates
 
 Selected Publication & Software
 ------
+
+**Ocean: Fast Estimation-Based Sparse General Matrix-Matrix Multiplication on GPU**
+
+Ocean (ICS26) redesigned GPU-based SpGEMM by replacing the symbolic pass with lightweight HyperLogLog cardinality estimation, achieving a consistent 1.4×-2.8× speedup over the state-of-the-art across 400+ matrices on A100 and H100. To our knowledge, this is the first use of HyperLogLog to accelerate sparse linear algebra primitives.
+
+[Read the Ocean Paper](https://arxiv.org/pdf/2604.19004)\
+[Ocean GitHub](https://github.com/CornellHPC/Ocean-SpGEMM)
 
 **Trident: Communication-Avoiding SpGEMM via Trident Partitioning on Hierarchical GPU Interconnect**
 
