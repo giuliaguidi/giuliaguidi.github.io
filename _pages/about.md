@@ -31,6 +31,8 @@ In Spring 2026, I'm teaching [CS 5220: Applied High-Performance and Parallel Com
 Recent Updates
 ------
 
+- Congratulations to [Julian Bellavita](https://hooninator.github.io/website.github.io/) for passing his [A exam](https://gradschool.cornell.edu/academic-progress/degrees-fields/research-degree-requirements/advancing-to-doctoral-candidacy/)!
+  
 - I'm excited to share that [Victor Kamel](https://www.cs.toronto.edu/~vkamel/) will join the ALPS Lab in Fall 2026 from the University of Toronto to pursue his PhD in Computer Science at Cornell!
 
 - [Irene Simó](https://isimo00.github.io/) will present her poster, "Low-Precision SpMV and s-step SGD on Processing-in-Memory," at IPDPS26 in New Orleans, May 25–29, as part of the [IPDPS PhD Forum](https://www.ipdps.org/ipdps2026/2026-phd-forum.html). 
