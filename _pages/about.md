@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I'm an Assistant Professor in the [Department of Computer Science](https://cis.cornell.edu/) at Cornell University.
-I received my PhD in Computer Science from UC Berkeley. I work in the field of high-performance computing (HPC) for large-scale computational sciences and lead the **ALPS (Algorithms for Large-scale Parallel Systems) Lab**. I'm interested in developing algorithms and software infrastructures on parallel machines to speed up data processing without sacrificing programming productivity, and to make high-performance computing more accessible. I'm a big fan of sparse linear algebra and believe in sparse linear algebra as a computational abstraction for tackling large-scale computational challenges.
+I received my PhD in Computer Science from UC Berkeley. I work in the field of high-performance computing (HPC) for large-scale computational sciences and lead the **[ALPS (Algorithms for Large-scale Parallel Systems) Lab](https://www.linkedin.com/company/alps-research-lab/)**. I'm interested in developing algorithms and software infrastructures on parallel machines to speed up data processing without sacrificing programming productivity, and to make high-performance computing more accessible. I'm a big fan of sparse linear algebra and believe in sparse linear algebra as a computational abstraction for tackling large-scale computational challenges.
 
 <!-- 
 A data-driven personal website
