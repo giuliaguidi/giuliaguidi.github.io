@@ -31,6 +31,8 @@ In Spring 2026, I'm teaching [CS 5220: Applied High-Performance and Parallel Com
 Recent Updates
 ------
 
+- Congratulations to [Yifan Li](https://l.iyi.fan/) (and team!) for receiving the [Best Poster Award](https://www.linkedin.com/posts/giulia-guidi_ics26-hpc-sparselinearalgebra-activity-7480921041255563265-RFc0?utm_source=share&utm_medium=member_desktop&rcm=ACoAABeR7YoBDMddkw_b6zRYkBnNLxEXFhYdKU0) at [ICS26](https://dipsa-qub.github.io/ICS2026-webpage/) for his poster "Faster Biobank-Scale Analysis through Sparse Linear Algebra". More on this work soon!
+
 - I have been awarded the [NSF CAREER Award](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2542947) to support research on sparse linear algebra as a unifying abstraction for portable, scalable scientific computing. A huge thank you to the ALPS Lab students and collaborators, and to the mentors and colleagues who supported this proposal. Really excited for what's ahead!
 
 - Congratulations to [Julian Bellavita](https://hooninator.github.io/website.github.io/) for passing his [A exam](https://gradschool.cornell.edu/academic-progress/degrees-fields/research-degree-requirements/advancing-to-doctoral-candidacy/)!
