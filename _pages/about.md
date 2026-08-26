@@ -31,7 +31,7 @@ In Spring 2026, I'm teaching [CS 5220: Applied High-Performance and Parallel Com
 Recent Updates
 ------
 
-- I'm thrilled to share that I'll be serving as Program Co-Chair for [ACM ICS 2027](https://www.ics-conference.org/), to be held in Atlanta next June during [ACM FCRC](https://fcrc.acm.org/), together with [Prof. Daniel Wong](https://www.danielwong.org/) (UC Riverside).
+- I'm thrilled to serve as Program Co-Chair for [ACM ICS 2027](https://www.ics-conference.org/), to be held in Atlanta next June during [ACM FCRC](https://fcrc.acm.org/), together with [Prof. Daniel Wong](https://www.danielwong.org/) (UC Riverside).
 
 - I'm honored to have been invited to give a talk at [SC26](https://sc26.supercomputing.org/program/invited-talks/) in Chicago (November 15–20, 2026), speaking in an invited session on the growing role of advanced computing and AI in biomedical research and healthcare.
 
