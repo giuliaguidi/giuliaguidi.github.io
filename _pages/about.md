@@ -26,7 +26,7 @@ For a complete list of publications, talks, and teaching information, please see
 
 If you're interested in course or research talk slides, please feel free to email me. I'll add them here eventually.
 
-In Spring 2026, I'm teaching [CS 5220: Applied High-Performance and Parallel Computing](https://www.cs.cornell.edu/courses/cs5220/2026sp/).
+In Spring 2027, I'll be teaching CS 5220: Applied High-Performance and Parallel Computing (CS 5220 will co-meet with CS 4230).
 
 Recent Updates
 ------
