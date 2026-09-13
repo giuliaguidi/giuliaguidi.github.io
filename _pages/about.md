@@ -45,18 +45,21 @@ Recent Updates
 
 - I have been awarded the [NSF CAREER Award](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2542947) to support research on sparse linear algebra as a unifying abstraction for portable, scalable scientific computing. A huge thank you to the ALPS Lab students and collaborators, and to the mentors and colleagues who supported this proposal. Really excited for what's ahead!
 
+<!-- 
 - Congratulations to [Julian Bellavita](https://hooninator.github.io/website.github.io/) for passing his [A exam](https://gradschool.cornell.edu/academic-progress/degrees-fields/research-degree-requirements/advancing-to-doctoral-candidacy/)!
-  
-- [Victor Kamel](https://www.cs.toronto.edu/~vkamel/) will join the ALPS Lab in Fall 2026 from the University of Toronto to pursue his PhD in Computer Science at Cornell!
 
+
+- [Victor Kamel](https://www.cs.toronto.edu/~vkamel/) will join the ALPS Lab in Fall 2026 from the University of Toronto to pursue his PhD in Computer Science at Cornell!
+-->
 - [Irene Simó](https://isimo00.github.io/) will present her poster, "Low-Precision SpMV and s-step SGD on Processing-in-Memory," at IPDPS26 in New Orleans, May 25–29, as part of the [IPDPS PhD Forum](https://www.ipdps.org/ipdps2026/2026-phd-forum.html). 
 
 - Our work "Ocean: Fast Estimation-Based Sparse General Matrix-Matrix Multiplication on GPU" led by [Yifan Li](https://l.iyi.fan/) has been accepted to [ICS 2026](https://dipsa-qub.github.io/ICS2026-webpage/). Ocean replaces the costly symbolic pass in GPU SpGEMM with fast HyperLogLog estimation.
 
 - Our work introducing "Trident partitioning" led by [Julian Bellavita](https://hooninator.github.io/website.github.io/) and [Lorenzo Pichetti](https://hicrest.unitn.it/people/pico/), a hierarchy-aware hybrid 2D–1D decomposition for distributed SpGEMM that minimizes costly inter-node communication by exploiting fast intra-node GPU interconnects on modern heterogeneous supercomputers, has been accepted to [ICS 2026](https://dipsa-qub.github.io/ICS2026-webpage/)! 
 
+<!-- 
 - Our work on distributed memory algorithms for scaling Kernel K-means to million-point datasets (one to two orders of magnitude larger than previously practical) led by [Julian Bellavita](https://hooninator.github.io/website.github.io/) has been accepted to [IPDPS 2026](https://www.ipdps.org/)!
- 
+-->
 - Our [NSF](https://www.nsf.gov/) proposal "ACED: Fast and Scalable Whole Genome Analysis on Emerging Hardware Technologies" has been funded! This project, conducted in collaboration with [Professor April Wei's Lab](https://aprilweilab.github.io/), will address major computational challenges in population genetics through parallel computation, sparse linear algebra, and new hardware technologies.
 
 Selected Publication & Software
