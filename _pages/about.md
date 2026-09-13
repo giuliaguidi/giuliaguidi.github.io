@@ -35,7 +35,7 @@ Recent Updates
 
 - I'm deeply honored to receive the 2026 IEEE Computer Society [TCHPC Early Career Researchers Award for Excellence in High Performance Computing](https://tc.computer.org/tchpc/2026/09/12/2026-ieee-cs-tchpc-ecr-award-winners/).
 
-- Two ALPS Lab papers have been accepted to the [IA³ workshop at SC'26](https://hpc.pnl.gov/IA3/). "Cheaper by the Batch: Shared Traversal for Genotype Graph Editing," with Aaron Li, [Yifan Li](https://l.iyi.fan/), and [Drew DeHaas](https://cals.cornell.edu/people/drew-dehaas), introduces a shared-traversal method for batched edits on Genotype Representation Graphs. "SpSYRK: Half the Work in Distributed Sparse Matrix Multiplication," with Thomas McFarland and [Julian Bellavita](https://hooninator.github.io/website.github.io/), reduces both computation and communication in distributed sparse matrix products. Congratulations to all co-authors!
+- Two ALPS Lab papers have been accepted to the [IA³ workshop at SC'26](https://hpc.pnl.gov/IA3/). "Cheaper by the Batch: Shared Traversal for Genotype Graph Editing," led by Aaron Li, introduces a shared-traversal method for batched edits on Genotype Representation Graphs. "SpSYRK: Half the Work in Distributed Sparse Matrix Multiplication," led by Thomas McFarland, reduces both computation and communication in distributed sparse matrix products. 
 
 - I'm thrilled to serve as Program Co-Chair for [ACM ICS 2027](https://www.ics-conference.org/), to be held in Atlanta next June during [ACM FCRC](https://fcrc.acm.org/), together with [Prof. Daniel Wong](https://www.danielwong.org/) (UC Riverside).
 
