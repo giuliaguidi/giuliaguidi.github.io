@@ -31,6 +31,8 @@ In Spring 2026, I'm teaching [CS 5220: Applied High-Performance and Parallel Com
 Recent Updates
 ------
 
+- Our work, “Sparse Linear Algebra Accelerates Genotype Representation Graph Computation at Biobank Scale,” led by [Yifan Li](https://l.iyi.fan/) and [Qingyao Sun](https://nalzok.github.io/), is now on [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.09.10.750583v1.full.pdf). It introduces **Mikado**, which reformulates genotype representation graph (GRG) traversal as a sparse triangular solve built from blocked SpMVs, achieving up to 470× speedup on the core matrix-vector primitive and orders-of-magnitude end-to-end speedup for PCA and BOLT-LMM at biobank scale, including on All of Us. This work is a collaboration with [Professor Wei’s Lab](https://aprilweilab.github.io/) and [Professor Musharoff's Lab](https://musharofflab.github.io/index.html). 
+
 - Two ALPS Lab papers have been accepted to the [IA³ workshop at SC'26](https://hpc.pnl.gov/IA3/). "Cheaper by the Batch: Shared Traversal for Genotype Graph Editing," with Aaron Li, [Yifan Li](https://l.iyi.fan/), and [Drew DeHaas](https://cals.cornell.edu/people/drew-dehaas), introduces a shared-traversal method for batched edits on Genotype Representation Graphs. "SpSYRK: Half the Work in Distributed Sparse Matrix Multiplication," with Thomas McFarland and [Julian Bellavita](https://hooninator.github.io/website.github.io/), reduces both computation and communication in distributed sparse matrix products. Congratulations to all co-authors!
 
 - I'm thrilled to serve as Program Co-Chair for [ACM ICS 2027](https://www.ics-conference.org/), to be held in Atlanta next June during [ACM FCRC](https://fcrc.acm.org/), together with [Prof. Daniel Wong](https://www.danielwong.org/) (UC Riverside).
@@ -57,6 +59,13 @@ Recent Updates
 
 Selected Publication & Software
 ------
+
+**Mikado: Sparse Linear Algebra Accelerates Genotype Representation Graph Computation at Biobank Scale**
+
+Our _preprint_ introduces **Mikado**, which reformulates genotype representation graph (GRG) traversal as a blocked sparse triangular solve. Under a height-based level-set ordering, the GRG adjacency matrix becomes strictly block lower triangular, so the genotype matrix-vector product decomposes into a pipelined wavefront of SpMVs on standard sparse primitives (cuSPARSE, MKL). Mikado achieves up to 470× speedup on the core primitive and orders-of-magnitude end-to-end speedup and cost savings for PCA and BOLT-LMM at biobank scale, including All of Us, while porting across A100, V100, H100, and GH200 with no custom kernel.
+
+[Read the Mikado Paper](https://www.biorxiv.org/content/10.64898/2026.09.10.750583v1)\
+[Mikado GitHub](https://github.com/CornellHPC/Mikado)
 
 **Ocean: Fast Estimation-Based Sparse General Matrix-Matrix Multiplication on GPU**
 
