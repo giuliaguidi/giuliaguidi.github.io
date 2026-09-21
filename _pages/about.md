@@ -31,6 +31,8 @@ In Spring 2027, I'll be teaching CS 5220: Applied High-Performance and Parallel 
 Recent Updates
 ------
 
+- [Yifan Li](https://l.iyi.fan/) is going to present our recent work ["Sparse Linear Algebra Accelerates Genotype Representation Graph Computation at Biobank Scale"](https://www.biorxiv.org/content/10.64898/2026.09.10.750583v1.full.pdf) at the Sys4Health Workshop at [SOSP 2026](https://sigops.org/s/conferences/sosp/2026/)! 
+
 - Our work, “Sparse Linear Algebra Accelerates Genotype Representation Graph Computation at Biobank Scale,” led by [Yifan Li](https://l.iyi.fan/) and [Qingyao Sun](https://nalzok.github.io/), is now on [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.09.10.750583v1.full.pdf). It introduces **Mikado**, which reformulates genotype representation graph (GRG) traversal as a sparse triangular solve built from blocked SpMVs, achieving up to 470× speedup on the core matrix-vector primitive and orders-of-magnitude end-to-end speedup for PCA and BOLT-LMM at biobank scale, including on All of Us. This work is a collaboration with [Professor Wei’s Lab](https://aprilweilab.github.io/) and [Professor Musharoff's Lab](https://musharofflab.github.io/index.html).
 
 - I'm deeply honored to receive the 2026 IEEE Computer Society [TCHPC Early Career Researchers Award for Excellence in High Performance Computing](https://tc.computer.org/tchpc/2026/09/12/2026-ieee-cs-tchpc-ecr-award-winners/).
