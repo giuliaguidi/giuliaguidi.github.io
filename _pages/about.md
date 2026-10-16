@@ -28,6 +28,8 @@ If you're interested in course or research talk slides, please feel free to emai
 
 In Spring 2027, I'll be teaching CS 5220: Applied High-Performance and Parallel Computing (CS 5220 will co-meet with CS 4230).
 
+Recent [slides](https://drive.google.com/file/d/1GBTu8ryFMtSsnt0ScfKLgvVHhBEmwh8u/view?usp=sharing) (October 2026).
+
 Recent Updates
 ------
 
