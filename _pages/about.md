@@ -34,7 +34,7 @@ Recent Updates
 ------
 - I’m thrilled to have been selected as one of five Rising Innovators at the [RISE 2026 workshop](https://ayeshaafzal91.github.io/rise/) (Rising Innovators in Sustainable Exacomputing) at SC26 in Chicago! Come hear my lightning talk, “Sparse by Nature, Parallel by Design: HPC for the Life Sciences,” during the Rising Innovators Research Showcases on Sunday, November 15, 2026, at 12:00 PM in Room W178b.
 
-- I'm honored to have been invited to give a talk at [SC26](https://sc26.supercomputing.org/program/invited-talks/) in Chicago (November 15–20, 2026), speaking in an invited session on the growing role of advanced computing and AI in healthcare and cancer research.
+- Big news! I’m thrilled and deeply honored to be an [Invited Speaker at SC26](https://sc26.supercomputing.org/program/invited-talks/), the premier international conference for high performance computing, in Chicago (November 15 to 20, 2026)! I’ll present “Sparse Linear Algebra as a Computational Paradigm for Life Sciences Computation” on Tuesday, November 17, at 11:15 AM in the “AI in Healthcare and Cancer Research” session, alongside Eric Stahlberg of MD Anderson Cancer Center.
 
 - [Yifan Li](https://l.iyi.fan/) is going to present our recent work ["Sparse Linear Algebra Accelerates Genotype Representation Graph Computation at Biobank Scale"](https://www.biorxiv.org/content/10.64898/2026.09.10.750583v1.full.pdf) at the Sys4Health Workshop at [SOSP 2026](https://sigops.org/s/conferences/sosp/2026/)! 
 
