@@ -32,6 +32,8 @@ Recent [slides](https://drive.google.com/file/d/1GBTu8ryFMtSsnt0ScfKLgvVHhBEmwh8
 
 Recent Updates
 ------
+- Our paper [“Mixed-Precision Communication-Avoiding SGD for Generalized Linear Models on GPUs,”](https://arxiv.org/abs/2606.18463) with [Aditya Devarakonda](https://cs.wfu.edu/people/faculty/aditya-devarakonda/) and [Irene Simó Muñoz](https://isimo00.github.io/), has been accepted to ACM Transactions on Mathematical Software (TOMS) for the special issue on Mixed-Precision Techniques for HPC Algorithms and Applications using Hardware Accelerators.
+
 - I’m thrilled to have been selected as one of five Rising Innovators at the [RISE 2026 workshop](https://ayeshaafzal91.github.io/rise/) (Rising Innovators in Sustainable Exacomputing) at SC26 in Chicago! Come hear my lightning talk, “Sparse by Nature, Parallel by Design: HPC for the Life Sciences,” during the Rising Innovators Research Showcases on Sunday, November 15, 2026, at 12:00 PM in Room W178b.
 
 - Big news! I’m thrilled and deeply honored to be an [Invited Speaker at SC26](https://sc26.supercomputing.org/program/invited-talks/), the premier international conference for high performance computing, in Chicago (November 15 to 20, 2026)! I’ll present “Sparse Linear Algebra as a Computational Paradigm for Life Sciences Computation” on Tuesday, November 17, at 11:15 AM in the “AI in Healthcare and Cancer Research” session, alongside Eric Stahlberg of MD Anderson Cancer Center.
