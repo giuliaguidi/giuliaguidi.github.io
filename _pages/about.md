@@ -75,7 +75,7 @@ Selected Publication & Software
 
 Our _preprint_ introduces **Mikado**, which reformulates genotype representation graph (GRG) traversal as a blocked sparse triangular solve. Under a height-based level-set ordering, the GRG adjacency matrix becomes strictly block lower triangular, so the genotype matrix-vector product decomposes into a pipelined wavefront of SpMVs on standard sparse primitives (cuSPARSE, MKL). Mikado achieves up to 470× speedup on the core primitive and orders-of-magnitude end-to-end speedup and cost savings for PCA and BOLT-LMM at biobank scale, including All of Us, while porting across A100, V100, H100, and GH200 with no custom kernel.
 
-[Read the Mikado Paper](https://www.biorxiv.org/content/10.64898/2026.09.10.750583v1)\
+[Read the Mikado Paper](https://www.biorxiv.org/content/10.64898/2026.09.10.750583v3.full.pdf)\
 [Mikado GitHub](https://github.com/CornellHPC/Mikado)
 
 **Ocean: Fast Estimation-Based Sparse General Matrix-Matrix Multiplication on GPU**
