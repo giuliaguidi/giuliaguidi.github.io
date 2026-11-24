@@ -20,7 +20,7 @@ I'm an Affiliate Faculty in the Applied Math and Computational Sciences Division
 
 I'm also a faculty member of the [Computer Systems Laboratory (CSL) at Cornell University](https://www.csl.cornell.edu/).
 
-**PhD Application**: I don't answer to PhD application pre-inquiries. If you are interested in joining my group, you may apply through [Cornell CS](https://www.cs.cornell.edu/phd-computer-science) and mention me in your application. 
+**PhD Application Fall 2026**: I don't answer to PhD application pre-inquiries. If you are interested in joining my group, you may apply through [Cornell CS](https://www.cs.cornell.edu/phd-computer-science) and mention me in your application. 
 
 Publications, Talks, Teaching
 ------
